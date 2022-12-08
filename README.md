@@ -1,2 +1,2 @@
-# bouncing-bal
+# bouncing-ball
 made with termion
